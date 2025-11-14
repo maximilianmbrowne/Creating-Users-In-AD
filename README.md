@@ -1,3 +1,8 @@
+
+# Watch the Video of me Creating Users and Groups in Active Directory HERE:
+
+https://www.loom.com/share/bdbb5d1bf03146aebb802c549ad08960
+
 # Creating Users and Groups in Active Directory
 
 This lab guides you through creating new users and groups within an Active Directory (AD) domain using **Active Directory Users and Computers (ADUC)**.
@@ -63,3 +68,4 @@ You have successfully created:
 - A new **security group** within the Users container  
 
 Your AD environment is now updated with the specified objects.
+
